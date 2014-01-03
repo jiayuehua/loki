@@ -1,0 +1,20 @@
+# git ignore file
+*.ncb
+ipch
+*.opensdf
+*.sdf
+*.old
+release
+debug
+*.xml
+*.XML
+_UpgradeReport_Files
+*.obj
+*.exe
+*.suo
+*/Debug
+*/Release
+*.svn
+doc
+
+
